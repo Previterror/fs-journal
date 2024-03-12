@@ -3,7 +3,7 @@
     > To store our work and be able to return to known working versions if we ruin everything.
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > Creates a new folder.
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
