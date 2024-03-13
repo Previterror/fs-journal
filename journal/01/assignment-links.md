@@ -3,4 +3,5 @@
 * **[FSJournal](https://github.com/Previterror/fs-journal)**
 * **[CoolSite](https://github.com/Previterror/coolsite)**
 * **[CloneSite](https://github.com/Previterror/clonesite)**
+* **[CloneSite2](https://github.com/Previterror/clonesite2)**
 * **[Repo](https://github.com/Previterror/<ASSIGNMENT_REPO>)**
