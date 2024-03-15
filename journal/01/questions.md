@@ -25,7 +25,7 @@
     > a selector(h1), a property(color), and a value(rgba(255, 210, 33, .75))
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > Good design can funnel people to certain pages of your site or make certain things easier such as reading large amounts of text. You can communicate a lot of tone and who you expect yo use the website through the design.
+    > Good design can funnel people to certain pages of your site or make certain things easier such as reading large amounts of text. You can communicate a lot of tone and who you expect to use the website through the design.
 
 08. What is the purpose of ***wireframing***?
     > Wireframing allows you to mock up your website or app so that everyone involved can see what the plan for the UX is and how it conveys information.
@@ -34,7 +34,7 @@
     > It is always worth mocking up a design and getting the other team members feedback before going and spending a bunch of time on something without being sure everyone is on the same page.
 
 10. Define the display `:flex property:`
-    > Display flex allows for styling your website more **flexibly**. You can easily choose how to stack your elements in a flex box as well as aligning and justifying them.
+    > Display flex allows for styling your website more **flexibly** especially when sizes of elements may not be known. You can easily choose how to stack your elements in a flex box as well as aligning and justifying them.
 
 11. What `CSS` properties affect the size of a box model?
     > Margin, border, padding. Margin adds extra space outside of the element, border creates a divide between the element and the rest of the site, padding adds extra space inside of the element.
