@@ -17,7 +17,9 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    delete fruit[2]
+    fruit.splice(2,2)
+    fruit.filter(pineapple)
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,24 +36,28 @@
     }
     ```
 
-    > | ANSWER HERE |
+    array.friends += otherarray.name
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    if(hair = false){
+        friends = []
+    }
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    Parameters are an argument passed into a function. The argument is the value, the parameter is the argument once it's been passed into the function.
+    Parameters are the box you would insert the argument into.
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | ANSWER HERE | 
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    A primitive passes only the value, a reference passes the entire object.
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    for (i = -100; i > 101; i++){
+        console.log(is)
+    }
