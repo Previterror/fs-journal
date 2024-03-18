@@ -1,11 +1,11 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    let, const, var
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    A function is a subprogram; used to complete certain tasks that may be required repeatedly throughout your
 
 03. What are the `SOLID` principles?
 
@@ -42,7 +42,7 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    Parameters are an argument passed into a function. The argument is the value, the parameter is the argument once it's been passed into the function.
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
