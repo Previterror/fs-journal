@@ -9,7 +9,11 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    Single Responsibility - a function should be responsible for one thing
+    Open/Closed - It should be possible to add new features without breaking everything.
+    Liskov Substitution - Functions should treat objects derived from other methods the same as the would the original object.
+    Interface Segregation - Different functions should have separate interfaces even when they're similar.
+    Dependency Inversion - Changes made to subobjects shouldn't impact the larger object
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -50,7 +54,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE | 
+    Breakpoints and looking at the values in the Dev Tools
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
