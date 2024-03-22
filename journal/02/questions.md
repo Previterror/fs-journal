@@ -12,7 +12,7 @@
     Single Responsibility - a function should be responsible for one thing
     Open/Closed - It should be possible to add new features without breaking everything.
     Liskov Substitution - Functions should treat objects derived from other methods the same as the would the original object.
-    Interface Segregation - Different functions should have separate interfaces even when they're similar.
+    Interface Segregation - Different users should have separate interfaces even when they're similar.
     Dependency Inversion - Changes made to subobjects shouldn't impact the larger object
 
 04. Given this array: How could you remove the `pineapple`?
