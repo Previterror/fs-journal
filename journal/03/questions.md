@@ -5,7 +5,7 @@
 
 02. How does `export` differ from `export default`?
   
-  > | ANSWER HERE |
+  > Export default lets you leave off the name of the imported module.
 
 03. What is Encapsulation?
   
@@ -25,16 +25,16 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > Organisation!
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > The Controller handles user input and updates the View based on the Model, which will probably mean more later this week I assume.
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > Is service in MVC? Is it in AOS? Is AOS in MVC? If so where? All these questions and more will hopefully be answered this week!
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > The Model handles data representation, how that is different from data visualization is a mystery on Monday though.
