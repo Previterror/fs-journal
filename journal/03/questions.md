@@ -9,7 +9,7 @@
 
 03. What is Encapsulation?
   
-  > | ANSWER HERE |
+  > Obscuring portions of your code from other portions.
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
@@ -17,7 +17,7 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > An instance of a class can be used by other portions of code but can't affect the original class.
 
 06. What is a computed Property?
   
@@ -33,8 +33,8 @@
 
 09. What is the job of the `Service` in `MVC`?
   
-  > Is service in MVC? Is it in AOS? Is AOS in MVC? If so where? All these questions and more will hopefully be answered this week!
+  > Service takes in the requests from the Controller and updates the AppState.
 
 10. What is the job of the `Model` in `MVC`?
   
-  > The Model handles data representation, how that is different from data visualization is a mystery on Monday though.
+  > The Model is essentially a library of formats for data.
