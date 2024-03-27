@@ -1,7 +1,7 @@
 # Application Architecture, MVC Design Pattern
 01. What are the Pillars of Object Oriented Programming (`OOP`)?
   
-  > | ANSWER HERE |
+  > Inheritance, Encapsulation, Abstraction, Polymorphism
 
 02. How does `export` differ from `export default`?
   
@@ -21,7 +21,7 @@
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > A property of a class that the class does math on to assign.
 
 07. What is the purpose of the `MVC` pattern?
   
