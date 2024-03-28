@@ -13,7 +13,7 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > It's a wrapper around the object that we can use to tell when something is changed.
 
 05. What the difference between a `class` and an instance of a `class`?
   
