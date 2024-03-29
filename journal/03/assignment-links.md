@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/Previterror/gamenight)**
-* **[Repo](https://github.com/Previterror/spring24_gregslistMVC)**
-* **[Repo](https://github.com/Previterror/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/Previterror/<ASSIGNMENT_REPO>)**
+* **[Gamenight](https://github.com/Previterror/gamenight)**
+* **[Gregslist](https://github.com/Previterror/spring24_gregslistMVC)**
+* **[Vendr](https://github.com/Previterror/vendr)**
+* **[Jumble](https://github.com/Previterror/jungle-jumble)**
