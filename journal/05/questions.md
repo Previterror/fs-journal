@@ -9,7 +9,7 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | ANSWER HERE |
+  > Object-Relational Mapping?
 
 04. Which two `HTTP` request types include a body?
 
@@ -33,8 +33,8 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > ?tag=winter
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > Some type of function derived property that isn't in the normal data model.
