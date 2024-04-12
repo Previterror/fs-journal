@@ -21,7 +21,7 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | ANSWER HERE |
+  > One to one, one to many, many to many. Two documents that speak to eachother, one document that many other documents pull data from, and a big ol rats nest of interconnected documents.
 
 07. What is middleware?
 
@@ -29,7 +29,7 @@
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > I definitely don't remember going over this this week.
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
