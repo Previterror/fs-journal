@@ -9,7 +9,7 @@
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > Component Based Architecture enscapsulates responsibility vertically rather than horizontally for any component in a view. A single component will handle its own rendering and api calls but not be able to affect the rest of the page.
 
 04. What are the three tags that make up a Vue component?
 
